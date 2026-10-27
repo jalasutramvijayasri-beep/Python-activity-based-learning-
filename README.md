@@ -1,6 +1,13 @@
 
 student: jalasutram vijaya sri 
-this repository contain solution for 10 python activity
-case 1 to case 10
-All code in python 
+Roll no:26001654
+This repository contain 10 python case
+case 1 to case 10 solution are included 
+
+All code in the python 
+
 Thank you!
+
+
+
+
